@@ -4,9 +4,6 @@
 Komunikacijska strategija Mate Rimca
 
 
-Komunikacijska strategija Mate Rimca
-
-
 <p align="center">
   <img src="./foto.jpg" width="750" title="hover text">
 </p>
