@@ -24,5 +24,30 @@ Populacija:
 
 Rezultati na [poveznici]().
 
-Skupni [rezultati]().
-Facebook [rezultati]().
+
+Rezultati analize za pojedine medije:
+<br>
+<br>
+
+[Skupni pregled](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/GENERAL.html).
+<br>
+
+[Facebook](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/facebook.html).
+<br>
+
+[Forums](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/forums.html).
+<br>
+
+[Portals](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/portals.html).
+<br>
+
+[Twitter](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/twitter.html).
+<br>
+
+[Youtube](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/YouTube.html).
+<br>
+
+[Press](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/press.html).
+<br>
+
+[Instagram](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/Instagram.html).
