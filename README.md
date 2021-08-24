@@ -28,6 +28,10 @@ Rezultati analize su dostupni za medije:
 [Skupni pregled](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/GENERAL.html)
 <br>
 
+- u prvom planu je tvrtka Rimac (po broju objava i sadržaju)
+<br>
+- imidž kompanije je vezan uz vlasnika (M.Rimac), Hrvatsku, razvoj u automoto industiji, asve drugo je sekundarno (npr.Bugatti, Porsche)
+
 [Facebook](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/facebook.html)
 <br>
 
