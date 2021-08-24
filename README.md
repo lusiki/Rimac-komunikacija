@@ -14,18 +14,14 @@ Uzorak:
 
 <br>
 
-Sve javno dostupne objave na društvenim medijima u razdoblju od 01. srpnja do 16. srpnja 2021. godine koje u sebi sadrže pojam "rimac" i "nevera".
+Sve javno dostupne objave (42 422) na društvenim medijima u razdoblju od 01. srpnja do 16. srpnja 2021. godine koje u sebi sadrže pojam "rimac" i "nevera".
 
 Podatci su dostupni u [repozitoriju](https://github.com/lusiki/Rimac-komunikacija/tree/main/dta) u .csv i .xlsx formatu.
  
 
 <br>
 
-
-Rezultati na [poveznici]().
-
-
-Rezultati analize za pojedine medije:
+Rezultati analize su dostupni za medije:
 <br>
 <br>
 
