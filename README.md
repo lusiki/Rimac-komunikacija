@@ -59,6 +59,9 @@ Rezultati analize su dostupni za medije:
 [Portals](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/portals.html)
 <br>
 
+- najbitniji Index.hr i Večernji+Jutarnji+24sata (po publikacijama i impresijama)
+- pogledaj najbitnije članke (puni članak na linku!)
+
 [Twitter](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/twitter.html)
 <br>
 
