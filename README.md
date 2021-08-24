@@ -83,4 +83,7 @@ Rezultati analize su dostupni za medije:
 [Press](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/press.html)
 <br>
 
+- obavezno pročitati najbitnije tekstove za pregled sadržaja u tradiconalnim medijima
+
+
 [Instagram](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/Instagram.html)

@@ -1,9 +1,9 @@
 ---
 title: "SHARE OF VOICE REPORT"
 author: "Croatian social media overview for Rimac+Nevera"
-date: "Contentio d.o.o"
+date: ""
 # subtitle: "<html><div style='float:left'></div><hr color='#EB811B' size=1px width=796px></html>"
-subtitle: "Rimac"
+subtitle: "Medijska analiza tvrtke Rimac"
 output:
   xaringan::moon_reader:
     css: [default, metropolis, metropolis-fonts] 
@@ -105,7 +105,7 @@ name: pres
 
 <html><div style='float:left'></div><hr color='#EB811B' size=1px width=796px></html>
 
-(Not very active media for mobile phones.)
+()
 
 ---
 
