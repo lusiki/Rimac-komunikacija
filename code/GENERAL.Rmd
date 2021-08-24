@@ -442,10 +442,7 @@ landscapeFreqBrand %>%
 
 .footnote[[*]Number of publications by the brand and social media.]
 
----
 
-
-# CONCLUSION
 
 
 
