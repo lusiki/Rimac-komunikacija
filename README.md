@@ -31,6 +31,12 @@ Rezultati analize su dostupni za medije:
 - u prvom planu je tvrtka Rimac (po broju objava i sadržaju)
 <br>
 - imidž kompanije je vezan uz vlasnika (M.Rimac), Hrvatsku, razvoj u automoto industiji, asve drugo je sekundarno (npr.Bugatti, Porsche)
+<br>
+- najviše aktivnosti na modernim društvenim medijima i forumima (besplatna promidžba kao komunikacijska strategija?)
+- malo originalnih (od strane tvrtke) objava u "tradicionalnim" medijima
+
+
+
 
 [Facebook](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/facebook.html)
 <br>
