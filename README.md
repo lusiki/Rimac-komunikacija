@@ -10,7 +10,7 @@
 
 
  
-Uzorak:
+**Uzorak**:
 
 <br>
 
@@ -21,7 +21,7 @@ Podatci su dostupni u [repozitoriju](https://github.com/lusiki/Rimac-komunikacij
 
 <br>
 
-Rezultati analize su dostupni za medije:
+**Rezultati analize**:
 <br>
 <br>
 
@@ -90,3 +90,31 @@ Rezultati analize su dostupni za medije:
 
 
 - teško je analizirati ig kao medij (osnova su slike, tekstovi "neprecizni"; možeš prema linku vidjti objave ali moraš imati ig profil)
+
+
+**Zaključci**:
+
+- općenito velik interes medija za kompaniju i povezane događaje
+
+- favorizirana tema od određenih medijskih kuća (Index, Večernji...)
+
+- jako važni novi društveni mediji poput Fb
+
+- također puno aktivnosti na forumima (karakteristično za teme vezane uz tehnologiju)
+
+- općenito ograničene objave od tvrtke Rimac, nije standardan medijski angažman (komunikacija)
+
+- najviše angažmana tvrtke na FB i YT
+
+- pregledom sadržaja (tekstova u press, portals) se mogu dobiti dublji uvidi
+
+
+
+
+
+
+
+
+
+
+
