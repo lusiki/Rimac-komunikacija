@@ -73,6 +73,13 @@ Rezultati analize su dostupni za medije:
 [Youtube](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/YouTube.html)
 <br>
 
+
+- važan medij za tvrtku (pogledaj RimacAutomobili profil) 
+
+- pogledaj druge profile i pregledaj najvažniji sadržaj na linkovima
+
+- općenito važan kanal za tvrtku
+
 [Press](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/press.html)
 <br>
 
