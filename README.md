@@ -53,17 +53,22 @@ Rezultati analize su dostupni za medije:
 <br>
 
 - izraito važan medij
-<br>
+
 - Index Forum najbiniji
 
 [Portals](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/portals.html)
 <br>
 
 - najbitniji Index.hr i Večernji+Jutarnji+24sata (po publikacijama i impresijama)
+
 - pogledaj najbitnije članke (puni članak na linku!)
 
 [Twitter](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/twitter.html)
 <br>
+
+- Dnevnik.hr izrazito važan profil
+
+- pogledaj prirodu objava
 
 [Youtube](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/YouTube.html)
 <br>
