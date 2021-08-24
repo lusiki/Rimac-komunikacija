@@ -87,3 +87,6 @@ Rezultati analize su dostupni za medije:
 
 
 [Instagram](https://raw.githack.com/lusiki/Rimac-komunikacija/main/code/Instagram.html)
+
+
+- teško je analizirati ig kao medij (osnova su slike, tekstovi "neprecizni"; možeš prema linku vidjti objave ali moraš imati ig profil)
